@@ -1,0 +1,423 @@
+[
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "PMI",
+    "destination_name": "Mallorca",
+    "last_updated": "2025-05-28T19:20:58.363241+00:00",
+    "update_after": "2025-06-11T07:00:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "LPA",
+    "destination_name": "Gran Canaria",
+    "last_updated": "2025-05-28T19:20:58.363241+00:00",
+    "update_after": "2025-06-12T09:10:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "GZP",
+    "destination_name": "Alanya-Gazipasa",
+    "last_updated": "2025-05-28T19:20:58.363241+00:00",
+    "update_after": "2025-07-23T15:45:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "RHO",
+    "destination_name": "Rhodos",
+    "last_updated": "2025-05-28T19:20:58.363241+00:00",
+    "update_after": "2025-08-04T18:00:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "CHQ",
+    "destination_name": "Kreta-Chania",
+    "last_updated": "2025-05-28T19:20:58.363241+00:00",
+    "update_after": "2025-09-19T18:25:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "MJT",
+    "destination_name": "Lesbos/Mytilini",
+    "last_updated": "2025-05-28T19:20:58.364681+00:00",
+    "update_after": "2025-09-29T07:30:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "PVK",
+    "destination_name": "Parga Preveza",
+    "last_updated": "2025-05-28T19:20:58.364681+00:00",
+    "update_after": "2025-09-30T18:10:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "JSH",
+    "destination_name": "Kreta-Sitia",
+    "last_updated": "2025-05-28T19:20:58.364681+00:00",
+    "update_after": "2025-10-03T07:25:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "LCA",
+    "destination_name": "Cypern",
+    "last_updated": "2025-05-28T19:20:58.364681+00:00",
+    "update_after": "2025-10-04T07:10:00+00:00"
+  },
+  {
+    "origin_iata": "CPH",
+    "origin_name": "København",
+    "origin_caid": "12678",
+    "destination_iata": "AYT",
+    "destination_name": "Antalya",
+    "last_updated": "2025-05-28T19:20:58.365924+00:00",
+    "update_after": "2025-10-05T07:00:00+00:00"
+  },
+  {
+    "origin_iata": "AAL",
+    "origin_name": "Aalborg",
+    "origin_caid": "12675",
+    "destination_iata": "RHO",
+    "destination_name": "Rhodos",
+    "last_updated": "2025-05-28T19:21:00.973648+00:00",
+    "update_after": "2025-07-31T10:45:00+00:00"
+  },
+  {
+    "origin_iata": "AAL",
+    "origin_name": "Aalborg",
+    "origin_caid": "12675",
+    "destination_iata": "LCA",
+    "destination_name": "Cypern",
+    "last_updated": "2025-05-28T19:21:00.973648+00:00",
+    "update_after": "2025-10-07T15:45:00+00:00"
+  },
+  {
+    "origin_iata": "BLL",
+    "origin_name": "Billund",
+    "origin_caid": "12676",
+    "destination_iata": "PMI",
+    "destination_name": "Mallorca",
+    "last_updated": "2025-05-28T19:21:03.546889+00:00",
+    "update_after": "2025-07-30T16:45:00+00:00"
+  },
+  {
+    "origin_iata": "BLL",
+    "origin_name": "Billund",
+    "origin_caid": "12676",
+    "destination_iata": "HER",
+    "destination_name": "Kreta-Heraklion",
+    "last_updated": "2025-05-28T19:21:03.546889+00:00",
+    "update_after": "2025-10-03T07:00:00+00:00"
+  },
+  {
+    "origin_iata": "BLL",
+    "origin_name": "Billund",
+    "origin_caid": "12676",
+    "destination_iata": "AYT",
+    "destination_name": "Antalya",
+    "last_updated": "2025-05-28T19:21:03.546889+00:00",
+    "update_after": "2025-10-03T16:55:00+00:00"
+  },
+  {
+    "origin_iata": "BLL",
+    "origin_name": "Billund",
+    "origin_caid": "12676",
+    "destination_iata": "CHQ",
+    "destination_name": "Kreta-Chania",
+    "last_updated": "2025-05-28T19:21:03.546889+00:00",
+    "update_after": "2025-10-05T16:25:00+00:00"
+  },
+  {
+    "origin_iata": "BLL",
+    "origin_name": "Billund",
+    "origin_caid": "12676",
+    "destination_iata": "RHO",
+    "destination_name": "Rhodos",
+    "last_updated": "2025-05-28T19:21:03.547903+00:00",
+    "update_after": "2025-10-06T06:35:00+00:00"
+  },
+  {
+    "origin_iata": "BLL",
+    "origin_name": "Billund",
+    "origin_caid": "12676",
+    "destination_iata": "LCA",
+    "destination_name": "Cypern",
+    "last_updated": "2025-05-28T19:21:03.547903+00:00",
+    "update_after": "2025-10-07T07:10:00+00:00"
+  },
+  {
+    "origin_iata": "ODE",
+    "origin_name": "Odense",
+    "origin_caid": "37057",
+    "destination_iata": "PMI",
+    "destination_name": "Mallorca",
+    "last_updated": "2025-05-28T19:21:06.656267+00:00",
+    "update_after": "2025-07-23T15:55:00+00:00"
+  },
+  {
+    "origin_iata": "GZP",
+    "origin_name": "Alanya-Gazipasa",
+    "origin_caid": "61949",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:09.123268+00:00",
+    "update_after": "2025-06-30T23:05:00+00:00"
+  },
+  {
+    "origin_iata": "AYT",
+    "origin_name": "Antalya",
+    "origin_caid": "13135",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:12.076022+00:00",
+    "update_after": "2025-06-01T12:55:00+00:00"
+  },
+  {
+    "origin_iata": "LCA",
+    "origin_name": "Cypern",
+    "origin_caid": "12767",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:14.652352+00:00",
+    "update_after": "2025-06-03T12:50:00+00:00"
+  },
+  {
+    "origin_iata": "LCA",
+    "origin_name": "Cypern",
+    "origin_caid": "12767",
+    "destination_iata": "AAL",
+    "destination_name": "Aalborg",
+    "destination_caid_dk": "12675",
+    "last_updated": "2025-05-28T19:21:14.652352+00:00",
+    "update_after": "2025-06-24T22:00:00+00:00"
+  },
+  {
+    "origin_iata": "LPA",
+    "origin_name": "Gran Canaria",
+    "origin_caid": "12745",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:17.256233+00:00",
+    "update_after": "2025-06-12T14:55:00+00:00"
+  },
+  {
+    "origin_iata": "LPA",
+    "origin_name": "Gran Canaria",
+    "origin_caid": "12745",
+    "destination_iata": "AAL",
+    "destination_name": "Aalborg",
+    "destination_caid_dk": "12675",
+    "last_updated": "2025-05-28T19:21:17.256233+00:00",
+    "update_after": "2025-07-03T13:20:00+00:00"
+  },
+  {
+    "origin_iata": "LPA",
+    "origin_name": "Gran Canaria",
+    "origin_caid": "12745",
+    "destination_iata": "BLL",
+    "destination_name": "Billund",
+    "destination_caid_dk": "12676",
+    "last_updated": "2025-05-28T19:21:17.256233+00:00",
+    "update_after": "2025-10-17T13:40:00+00:00"
+  },
+  {
+    "origin_iata": "KGS",
+    "origin_name": "Kos",
+    "origin_caid": "12774",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:20.038202+00:00",
+    "update_after": "2025-06-07T22:35:00+00:00"
+  },
+  {
+    "origin_iata": "CHQ",
+    "origin_name": "Kreta-Chania",
+    "origin_caid": "12769",
+    "destination_iata": "BLL",
+    "destination_name": "Billund",
+    "destination_caid_dk": "12676",
+    "last_updated": "2025-05-28T19:21:23.022049+00:00",
+    "update_after": "2025-06-01T22:20:00+00:00"
+  },
+  {
+    "origin_iata": "CHQ",
+    "origin_name": "Kreta-Chania",
+    "origin_caid": "12769",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:23.022049+00:00",
+    "update_after": "2025-06-01T23:20:00+00:00"
+  },
+  {
+    "origin_iata": "JSH",
+    "origin_name": "Kreta-Sitia",
+    "origin_caid": "165227",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:28.428204+00:00",
+    "update_after": "2025-05-30T13:00:00+00:00"
+  },
+  {
+    "origin_iata": "MJT",
+    "origin_name": "Lesbos/Mytilini",
+    "origin_caid": "12778",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:31.189657+00:00",
+    "update_after": "2025-06-02T12:55:00+00:00"
+  },
+  {
+    "origin_iata": "MJT",
+    "origin_name": "Lesbos/Mytilini",
+    "origin_caid": "12778",
+    "destination_iata": "BLL",
+    "destination_name": "Billund",
+    "destination_caid_dk": "12676",
+    "last_updated": "2025-05-28T19:21:31.189657+00:00",
+    "update_after": "2025-07-08T12:10:00+00:00"
+  },
+  {
+    "origin_iata": "PMI",
+    "origin_name": "Mallorca",
+    "origin_caid": "12741",
+    "destination_iata": "BLL",
+    "destination_name": "Billund",
+    "destination_caid_dk": "12676",
+    "last_updated": "2025-05-28T19:21:34.476964+00:00",
+    "update_after": "2025-06-01T11:20:00+00:00"
+  },
+  {
+    "origin_iata": "PMI",
+    "origin_name": "Mallorca",
+    "origin_caid": "12741",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:34.476964+00:00",
+    "update_after": "2025-06-01T20:25:00+00:00"
+  },
+  {
+    "origin_iata": "PMI",
+    "origin_name": "Mallorca",
+    "origin_caid": "12741",
+    "destination_iata": "AAL",
+    "destination_name": "Aalborg",
+    "destination_caid_dk": "12675",
+    "last_updated": "2025-05-28T19:21:34.477968+00:00",
+    "update_after": "2025-06-04T11:30:00+00:00"
+  },
+  {
+    "origin_iata": "PMI",
+    "origin_name": "Mallorca",
+    "origin_caid": "12741",
+    "destination_iata": "ODE",
+    "destination_name": "Odense",
+    "destination_caid_dk": "37057",
+    "last_updated": "2025-05-28T19:21:34.477968+00:00",
+    "update_after": "2025-07-02T11:20:00+00:00"
+  },
+  {
+    "origin_iata": "PVK",
+    "origin_name": "Parga Preveza",
+    "origin_caid": "12780",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:36.938013+00:00",
+    "update_after": "2025-06-03T22:45:00+00:00"
+  },
+  {
+    "origin_iata": "RHO",
+    "origin_name": "Rhodos",
+    "origin_caid": "12781",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:40.179224+00:00",
+    "update_after": "2025-06-02T23:50:00+00:00"
+  },
+  {
+    "origin_iata": "RHO",
+    "origin_name": "Rhodos",
+    "origin_caid": "12781",
+    "destination_iata": "AAL",
+    "destination_name": "Aalborg",
+    "destination_caid_dk": "12675",
+    "last_updated": "2025-05-28T19:21:40.180219+00:00",
+    "update_after": "2025-07-03T07:00:00+00:00"
+  },
+  {
+    "origin_iata": "JSI",
+    "origin_name": "Skiathos",
+    "origin_caid": "12783",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:42.858676+00:00",
+    "update_after": "2025-06-04T12:35:00+00:00"
+  },
+  {
+    "origin_iata": "TFS",
+    "origin_name": "Tenerife",
+    "origin_caid": "12747",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:45.543546+00:00",
+    "update_after": "2025-06-04T13:15:00+00:00"
+  },
+  {
+    "origin_iata": "TFS",
+    "origin_name": "Tenerife",
+    "origin_caid": "12747",
+    "destination_iata": "BLL",
+    "destination_name": "Billund",
+    "destination_caid_dk": "12676",
+    "last_updated": "2025-05-28T19:21:45.543546+00:00",
+    "update_after": "2025-06-04T13:40:00+00:00"
+  },
+  {
+    "origin_iata": "VAR",
+    "origin_name": "Varna",
+    "origin_caid": "12766",
+    "destination_iata": "CPH",
+    "destination_name": "København",
+    "destination_caid_dk": "12678",
+    "last_updated": "2025-05-28T19:21:48.346712+00:00",
+    "update_after": "2025-06-17T23:05:00+00:00"
+  },
+  {
+    "origin_iata": "VAR",
+    "origin_name": "Varna",
+    "origin_caid": "12766",
+    "destination_iata": "BLL",
+    "destination_name": "Billund",
+    "destination_caid_dk": "12676",
+    "last_updated": "2025-05-28T19:21:48.348223+00:00",
+    "update_after": "2025-07-08T23:35:00+00:00"
+  }
+]
